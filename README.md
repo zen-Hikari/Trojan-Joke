@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/novaldanorel/assets-prabowo/refs/heads/main/Screenshot%202026-09-10%20212818.png" width="300px">
+  <img src="https://raw.githubusercontent.com/novaldanorel/assets-prabowo/refs/heads/main/Screenshot%202026-09-10%20213214.png" width="300px">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Trojan-Joke-red?style=for-the-badge">
