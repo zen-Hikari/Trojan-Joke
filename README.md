@@ -1,4 +1,10 @@
-# 🦠 Crhome Prankware (Python Joke Trojan)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/novaldanorel/assets-prabowo/refs/heads/main/Screenshot%202026-09-10%20194146.png">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Trojan-Joke-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/V1.5-green?style=for-the-badge">
+</div>
 
 > **🚨 DISCLAIMER & WARNING 🚨**
 > This script is a **highly disruptive prankware / joke program** created for educational purposes and controlled testing environments only. 
