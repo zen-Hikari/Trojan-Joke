@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Trojan-Joke-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/V1.5-green?style=for-the-badge">
+  <br><br>
 </div>
 
 > **🚨 DISCLAIMER & WARNING 🚨**
